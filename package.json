@@ -1,0 +1,19 @@
+{
+  "name": "privacy-zk-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "circom": "^0.5.46"
+  },
+  "dependencies": {
+    "circomlib": "^2.0.5",
+    "ethers": "^6.15.0"
+  }
+}
